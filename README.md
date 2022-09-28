@@ -12,7 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 
 <div align="center">
    
-    <img src="/screenshots/0.GIF" width="400px"</img> 
+    <img src="/screenshots/1.GIF" width="400px"</img> 
    
 </div>
 
